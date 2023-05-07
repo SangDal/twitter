@@ -1,5 +1,0 @@
-리액트와 node의 버전 맞추기 위한 명령어(종속성 맞추기)
-//이렇게 하면 안되고 -하나만 치니깐 됨 
-npm audit fix --force
-npm audit fix -force
-
